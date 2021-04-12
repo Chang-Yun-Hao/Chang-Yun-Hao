@@ -1,0 +1,29 @@
+.container{
+    height: 100%;  /*拉紙的長度*/
+}
+.boxA{
+    height:100px;
+    display:flex;
+}
+.boxB{
+    height:100px;
+}
+.boxC{
+    height:100px;
+}
+
+
+
+.boxA1{
+    width: 50%;
+    border: solid #c41616;
+    position: relative;
+    float: left;
+}
+
+.boxA2{
+    width: 50%;
+    border: solid;
+    position: relative;
+    float: left;
+}
